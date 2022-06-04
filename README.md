@@ -2,7 +2,7 @@
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/thehelpfultipper/pen/MWQrWmv](https://codepen.io/thehelpfultipper/pen/MWQrWmv).
 
-**Blog Post:**
+**Blog Post:** [2 Ways To Build A Product Landing Page (freeCodeCamp Challenge)](https://thehelpfultipper.com/2-ways-to-build-a-product-landing-page-freecodecamp-challenge/)
 
 Find a detailed walkthrough in the blog post on The Helpful Tipper blog (^_^)
 
